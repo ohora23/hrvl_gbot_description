@@ -1,5 +1,5 @@
-# hrvl_gbot_description
-- HRVL_Gbot description file 
+# HRVL GBot description file
+- HRVL_Gbot description for rviz & moveit (ROS)
 - To see the URDF file using rviz, use urdf.launch in the launch folder
 ![image](https://user-images.githubusercontent.com/29231446/60486810-23446800-9cda-11e9-9f60-4227535b131f.png)
 
